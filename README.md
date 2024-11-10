@@ -1,8 +1,8 @@
 # app-dev
 My First Repository
 # My Favorite Movies
-## Horror/Action-Comedy Movies
+## Horror/Love-Story Movies
 **Movies**
 1.The Conjuring
-2.Rush Hour 1/2/3
+2.Hereditary
 3.Titanic
